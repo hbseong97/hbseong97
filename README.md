@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Haebin Seong
+https://hbseong97.github.io/cv/
 <!--
 **hbseong97/hbseong97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
